@@ -1,0 +1,16 @@
+{
+  "domain": "Deep learning",
+  "goal": "Deep Understanding",
+  "level": "Intermediate",
+  "daily_time": 90,
+  "exam_date": "2026-03-17",
+  "learning_style": [
+    "Reading/Writing (notes, text)",
+    "Auditory (discussions, explanations)",
+    "Kinesthetic (examples, practice)",
+    "Visual (diagrams, charts)"
+  ],
+  "motivation": "Learning and studing what is the NN and CNN",
+  "challenges": "hard to learn and studding alone",
+  "updated_at": "2026-02-17T19:29:53.228599"
+}

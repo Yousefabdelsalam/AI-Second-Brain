@@ -1,0 +1,15 @@
+{
+  "domain": "Deep learning",
+  "goal": "Exam Preparation",
+  "level": "Intermediate",
+  "daily_time": 90,
+  "exam_date": "2026-03-16",
+  "learning_style": [
+    "Reading/Writing (notes, text)",
+    "Kinesthetic (examples, practice)",
+    "Auditory (discussions, explanations)"
+  ],
+  "motivation": "To understanding neural network",
+  "challenges": "hard to studing",
+  "updated_at": "2026-02-16T23:17:34.828665"
+}

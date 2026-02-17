@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": "2026-02-17T19:29:53.229596",
+    "activity": "profile_created",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:30:30.740849",
+    "activity": "uploaded_2_docs",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:32:19.931716",
+    "activity": "used_practice_problems",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:32:53.669628",
+    "activity": "used_knowledge_gaps",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:33:47.928604",
+    "activity": "used_compare_topics",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:34:39.736801",
+    "activity": "used_teach_me",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:35:10.458957",
+    "activity": "used_exam_strategy",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:35:52.584938",
+    "activity": "used_project_ideas",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:36:16.406606",
+    "activity": "used_memory_techniques",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:37:02.388912",
+    "activity": "used_explain",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:37:20.210170",
+    "activity": "used_summarize",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:37:40.078232",
+    "activity": "used_quiz",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:38:29.351110",
+    "activity": "used_flashcards",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:39:01.484968",
+    "activity": "used_study_plan",
+    "score": null
+  },
+  {
+    "timestamp": "2026-02-17T19:39:12.069272",
+    "activity": "used_study_plan",
+    "score": null
+  }
+]
